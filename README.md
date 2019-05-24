@@ -1,2 +1,2 @@
-# Mess-Menu
-What are we eating today?
+# Mess Menu Project
+> What are we eating today?
