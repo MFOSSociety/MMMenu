@@ -6,4 +6,7 @@
 #### What are we eating today? Get the food-menu instantly.
 
 Too lazy to switch your laptop/mobile **ON** or even worse go to the mess itself to check the menu ?
-This project is specifically being developed for students at Manipal University Jaipur. It daily helps you to know the food menu served in Manipal University Jaipur, Rajasthan.
+
+This project is specifically being developed for students at Manipal University Jaipur.
+
+It daily helps you to know the food menu served in Manipal University Jaipur, Rajasthan.
